@@ -34,7 +34,7 @@
 <br/>
 
 ### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himel-mahmud-b567322a7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shifat-himel)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-for-the-badge&logo=github&logoColor=white)](https://github.com/mahmudhimel)
 
 ---
