@@ -1,9 +1,6 @@
-<h1 align="center">Hey, I'm Himel 👋</h1>
-<h3 align="center">Data Science Student · UIU Dhaka · Python Enthusiast</h3>
-
-<br/>
-
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=378ADD&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Himel+%F0%9F%91%8B;Data+Science+%40+UIU;Python+%7C+Pandas+%7C+NumPy;Always+learning..." alt="Typing SVG" />
+</h1>
 
 ### 👨‍💻 About Me
 
